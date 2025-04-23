@@ -16,5 +16,3 @@
 1. Show messages
 2. Show textbox for input
 3. Entered message pass to open Ai
-4. Append the response to messages list and show in screen
-5. Learn Lang chain
